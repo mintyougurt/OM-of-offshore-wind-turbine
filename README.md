@@ -6,11 +6,16 @@ Title: A DE based approach for predictive maintenance optimization of an offshor
 
 # Original data as inputs
 SCADA 01 06.zp- include scada data of turbine T01 and T06
+
 SCADA 07 011.zp- include scada data of turbine T07 and T011
+
 failures.csv-failure logs of turbines
+
 norelec.csv-electricity price
+
 # Outputs from codes
 Results of autoencoder-results of reconstruction error from autoencoder
+
 Results.zip-
 Sensiticity analysis- results of different population size and location parameters
 OM based on predictions-results of solutions based on different conditions
