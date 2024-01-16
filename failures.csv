@@ -1,0 +1,29 @@
+Turbine_ID,Component,Timestamp,Remarks
+T11,GENERATOR,2016-03-03 19:00:00+00:00,Electric circuit error in generator
+T06,HYDRAULIC_GROUP,2016-04-04 18:53:00+00:00,Error in pitch regulation
+T07,GENERATOR_BEARING,2016-04-30 12:40:00+00:00,High temperature in generator bearing (replaced sensor)
+T09,GENERATOR_BEARING,2016-06-07 16:59:00+00:00,High tempemperature generator bearing
+T07,TRANSFORMER,2016-07-10 03:46:00+00:00,High temperature transformer
+T06,GENERATOR,2016-07-11 19:48:00+00:00,Generator replaced
+T01,GEARBOX,2016-07-18 02:10:00+00:00,Gearbox pump damaged
+T06,GENERATOR,2016-07-24 17:01:00+00:00,Generator temperature sensor failure
+T09,GENERATOR_BEARING,2016-08-22 18:25:00+00:00,High temperature generator bearing
+T07,TRANSFORMER,2016-08-23 02:21:00+00:00,High temperature transformer. Transformer refrigeration repaired
+T06,GENERATOR,2016-09-04 08:08:00+00:00,High temperature generator error
+T06,GENERATOR,2016-10-02 17:08:00+00:00,Refrigeration system and temperature sensors in generator replaced
+T09,GEARBOX,2016-10-11 08:06:00+00:00,Gearbox repaired
+T09,GENERATOR_BEARING,2016-10-17 09:19:00+00:00,Generator bearings replaced
+T11,HYDRAULIC_GROUP,2016-10-17 17:44:00+00:00,Hydraulic group error in the brake circuit
+T06,GENERATOR,2016-10-27 16:26:00+00:00,Generator replaced
+T09,GENERATOR_BEARING,2017-01-25 12:55:00+00:00,Generator bearings replaced
+T11,HYDRAULIC_GROUP,2017-04-26 18:06:00+00:00,Hydraulic group error in the brake circuit
+T07,HYDRAULIC_GROUP,2017-06-17 11:35:00+00:00,Oil leakage in Hub
+T01,TRANSFORMER,2017-08-11 13:14:00+00:00,Transformer fan damaged
+T06,HYDRAULIC_GROUP,2017-08-19 09:47:00+00:00,Oil leakage in Hub
+T07,GENERATOR_BEARING,2017-08-20 06:08:00+00:00,Generator bearings damaged
+T07,GENERATOR,2017-08-21 14:47:00+00:00,Generator damaged
+T11,HYDRAULIC_GROUP,2017-09-12 15:30:00+00:00,Hydraulic group error in the brake circuit
+T09,HYDRAULIC_GROUP,2017-09-16 15:46:00+00:00,Pitch position error related GH
+T06,GEARBOX,2017-10-17 08:38:00+00:00,Gearbox bearings damaged
+T09,GEARBOX,2017-10-18 08:32:00+00:00,Gearbox noise
+T07,HYDRAULIC_GROUP,2017-10-19 10:11:00+00:00,Oil leakage in Hub
